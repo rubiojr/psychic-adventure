@@ -7,3 +7,5 @@ Here's an example from https://github.com/Pylons/pyramid/blob/master/docs/quick_
 
 
 Note that other features of rst do render, like ``emphasis``.
+
+Foo
